@@ -6,7 +6,7 @@
 #define ENABLE_PODMINKA_3 1
 
 //
-// LOGIN: xvomaco00
+// LOGIN: xvomaco00 (Ondřej Vomáčka)
 //
 
 // Tato funkce by mela do formule pridat klauzule predstavujici podminku 1)
